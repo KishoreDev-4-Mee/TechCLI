@@ -32,7 +32,7 @@ A modern project scaffolding CLI tool that helps you quickly create new projects
    ```bash
    git clone https://github.com/KishoreDev-4-Mee/TechCLI.git
    cd TechCLI
-````
+
 
 2. Run the setup script:
 
