@@ -174,10 +174,3 @@ ISC License
 
 ```
 
----
-
-Let me know if you'd like:
-- A `README.md` badge design section
-- Auto-template validator or template uploader script
-- GitHub Action to zip and update your templates automatically
-```
