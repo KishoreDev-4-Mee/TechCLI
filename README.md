@@ -15,7 +15,7 @@ A modern project scaffolding CLI tool that helps you quickly create new projects
 - 📦 Prebuilt ZIP templates (auto-extracted on creation)
 - 📁 No Git mess — `.git` is auto-removed
 - 🔗 GitHub-based template storage
-- 🔧 Works offline (after first fetch if cached)
+
 
 ---
 
