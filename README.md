@@ -138,7 +138,7 @@ const frontend = [
 4. Make sure the zipped template is accessible via:
 
 ```
-https://github.com/<your-username>/<repo-name>/raw/main/template.zip
+https://github.com/<your-username>/<repo-name>.git
 ```
 
 5. In your code, the full link is constructed like:
@@ -146,7 +146,6 @@ https://github.com/<your-username>/<repo-name>/raw/main/template.zip
 ```js
 const GITHUB_USER = 'KishoreDev-4-Mee';
 const REPO_BASE = 'https://github.com';
-const zipUrl = `${REPO_BASE}/${GITHUB_USER}/${repo}/raw/main/template.zip`;
 ```
 
 6. Once added, your template will appear in the CLI selection list and be fetched and extracted automatically.
