@@ -1,7 +1,7 @@
 
 
 
-````markdown
+
 # 🧪 TechCLI
 
 A modern project scaffolding CLI tool that helps you quickly create new projects with popular tech stacks and templates — in seconds.
